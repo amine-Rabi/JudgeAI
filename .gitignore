@@ -12,5 +12,3 @@ __pycache__/
 artifacts/
 gltest.config.yaml
 
-# build guide — never commit
-GENLAYER-APP-GUIDE.md
