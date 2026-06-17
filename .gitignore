@@ -1,0 +1,16 @@
+node_modules/
+.next/
+.env
+.env.local
+*.pem
+
+# python / tests
+__pycache__/
+.pytest_cache/
+.venv/
+.venv-wsl/
+artifacts/
+gltest.config.yaml
+
+# build guide — never commit
+GENLAYER-APP-GUIDE.md

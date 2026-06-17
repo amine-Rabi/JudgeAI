@@ -1,0 +1,13 @@
+{
+  "name": "judgeai-protocol",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "deploy": "node scripts/deploy.mjs",
+    "test": "pytest -q"
+  },
+  "dependencies": {
+    "genlayer-js": "latest",
+    "dotenv": "latest"
+  }
+}
